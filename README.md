@@ -26,7 +26,7 @@ Used software:
   <li>Jetbrains Rider</li>
 </ul>
 
-## Spanish:
+## Español:
 Aquí subiré todas las pequeñas apps en las que estoy trabajando actualmente durante mis estudios en Ilerna FP (DAW + DAM).
 En este repositorio podrás encontrar diferentes lenguajes de programación así que por favor revisa el README.md para ver los detalles de cada directorio (proyecto).
 
